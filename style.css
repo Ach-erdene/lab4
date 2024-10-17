@@ -59,7 +59,7 @@ body:hover{
     width: 30%;
     background-color: antiquewhite;
     transition: transform 0.5s ease, border-radius 0.5s ease;
-    position: relative;  /* Relative positioning to allow independent scaling */
+    position: relative;
     z-index: 1; 
     padding: 30px;
 }
